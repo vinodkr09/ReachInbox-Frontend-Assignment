@@ -30,7 +30,7 @@ const Login = () => {
             </div>
         </div>
         <div className=" w-full h-8 flex justify-center items-center border border-slate-800">
-            <p className='h-5 text-gray-600 text-xs'> ©️ 2023 Reachinbox. All rights reserved.</p>
+            <p className='h-5 text-gray-600 text-xs'> ©️ 2024 Reachinbox. All rights reserved.</p>
         </div>
     </div>
     

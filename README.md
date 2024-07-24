@@ -18,27 +18,27 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
 
 ## Landing Page
 
-![Screenshot (346)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/09ff52fd-5880-454f-ae7d-7520b31a6ef7)
+(![landing page](<reachinbox/src/assets/Landing Page.png>))
 
-## Deshboard with Dark Mode
+## Deshboard with Light Mode
  
-![Screenshot 2024-04-02 213745](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/b507dfc6-bbd4-45ff-b115-296f5e7099d9)
+(![Dashboard light](<reachinbox/src/assets/Dashboard with Light mode.png>))
 
-## Dashboard with Light Mode
+## Dashboard with Dark Mode
 
-![Screenshot (355)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/8c2f6406-f4a1-408b-a556-255f80a18993)
+(![Dashboard dark](<reachinbox/src/assets/Dashboard with Dark mode.png>))
 
 ## Delete Email 
 
-![Screenshot (356)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/82fb7ea2-2a85-4365-a796-d0d8f89b9e20)
+(![Email](<reachinbox/src/assets/Delete mail.png>))
 
 
 
- # How to Run <br/>
+ # How to Run Application on loacl system <br/>
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone https://github.com/JahirPendhari09/ReachInBox-Frontend.git  ``` <br/>
+   Clone the repository:   ``` git clone https://github.com/vinodkr09/ReachInbox-Frontend-Assignment  ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
@@ -67,8 +67,4 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
    <pre><code>DELETE {{baseurl}}/onebox/messages/:thread_id </code></pre>
 
  
-   # Credits <br/>
-   This project was developed by ```Jahir Pendhari``` as a part of ```Masai School``` training program.
-
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
-  
+   

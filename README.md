@@ -9,7 +9,8 @@ This repository contains the code for the Reachinbox Frontend Assignment, implem
   - Tailwind css
 
 
-## Demo Video :- 
+## Video Link :- 
+https://www.loom.com/share/45800e97b7d54ad5bdf19fa2198f6d58?sid=9bd91604-6df1-47c5-b54f-8563634b13dc
 
 
 ## Login Page

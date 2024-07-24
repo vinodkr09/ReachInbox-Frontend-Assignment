@@ -20,7 +20,7 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
 
 (![landing page](<reachinbox/src/assets/Landing Page.png>))
 
-## Deshboard with Light Mode
+## Dashboard with Light Mode
  
 (![Dashboard light](<reachinbox/src/assets/Dashboard with Light mode.png>))
 
@@ -38,7 +38,7 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
  
    <h2>Installation</h2>
    
-   Clone the repository:   ``` git clone https://github.com/vinodkr09/ReachInbox-Frontend-Assignment  ``` <br/>
+   Clone the repository:   ``` git clone https://github.com/vinodkr09/ReachInbox-Frontend-Assignment.git  ``` <br/>
    Navigate to the project directory:   ``` cd reachinbox ``` <br/>
    Install the dependencies:   ``` npm install ``` <br/>
    Start the development server:   ``` npm run start ``` <br/>
@@ -49,7 +49,7 @@ https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b
    
   - Authentication
   - Get Emails
-  - Post (send) Email
+  - Post Email
   - Delete Email
 
 

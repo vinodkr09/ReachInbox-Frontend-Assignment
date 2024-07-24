@@ -34,7 +34,7 @@ This repository contains the code for the Reachinbox Frontend Assignment, implem
 
 
 
- # How to Run Application on loacl system <br/>
+ # How to Run Application on local system <br/>
  
    <h2>Installation</h2>
    

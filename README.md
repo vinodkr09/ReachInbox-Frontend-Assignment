@@ -1,23 +1,20 @@
 # ReachInBox-Frontend Assignment
 
 ## Overview
-This repository contains the code for Reachinbox frontend  App using React with Typescript for an assignment given by Reachinbox.
+This repository contains the code for the Reachinbox Frontend Assignment, implemented using React with TypeScript, as part of an assignment given by Reachinbox.
 
-## Technologies Used ( Frontend )
+## TechStack Used ( Frontend )
   - Typescript
   - React
   - Tailwind css
 
-## Deployment
-
-The application is deployed on netlify and can be accessed [here](https://reachinbox-frontend.netlify.app/).
 
 ## Demo Video :- 
 https://www.loom.com/share/b12a1f9ab67e48ae8e90efff18bccc9b?sid=6a306c49-9d1a-4b37-9dfa-21b4538e3831
 
 ## Login Page
 
-![Screenshot (344)](https://github.com/JahirPendhari09/ReachInBox-Frontend/assets/128920395/fb0298f0-1fd2-4464-b5e2-8bde53838a7b)
+(![login page](<reachinbox/src/assets/Login Page.png>))
 
 ## Landing Page
 
